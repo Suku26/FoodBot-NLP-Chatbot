@@ -1,0 +1,5 @@
+flask
+pyngrok
+scikit-learn
+pandas
+requests

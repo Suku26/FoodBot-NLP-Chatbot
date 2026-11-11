@@ -1,0 +1,6 @@
+
+__pycache__/
+*.pyc
+.env
+foodbot.db
+.ipynb_checkpoints/
