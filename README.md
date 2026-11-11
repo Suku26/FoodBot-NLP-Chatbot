@@ -1,8 +1,7 @@
 # FoodBot - Intelligent Recipe Recommendation Chatbot
 
 ## Project Description
-FoodBot is a web-based chatbot that recommends food recipes
-based on ingredients entered by users.
+An intelligent food recipe recommendation chatbot using NLP, Machine Learning, Flask, Python and SQLite.
 
 ## Technologies Used
 - Python
