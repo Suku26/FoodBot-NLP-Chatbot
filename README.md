@@ -37,4 +37,5 @@ SQLite stores recipe details and chat history.
 3. Open the Flask application through Ngrok.
 
 ## Developer
-Add your name here.
+Sukanya Naik
+
